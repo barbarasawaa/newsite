@@ -1,0 +1,14 @@
+body{
+    background-image: url(Downloads/3d-world-news-background-loop-free-video.jpg);
+    background- position:center;
+    background-size: cover;
+}
+a{
+    float: left;
+    color: rgb(255, 255, 255);
+    padding: 7px;
+    font-size: 41px;
+    text-decoration: none;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 33px;
+}
